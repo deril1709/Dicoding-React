@@ -55,5 +55,5 @@ Jika ingin berkontribusi, silakan fork repository ini, buat branch baru, dan kir
 Proyek ini dilisensikan di bawah MIT License - lihat [LICENSE](LICENSE) untuk detailnya.
 
 ---
-💡 *Dikembangkan sebagai bagian dari perjalanan belajar React di Dicoding.*
+💡 *Dibuat untuk memenuhi syarat kelulusan pada kelas Belajar Membuat Aplikasi Web dengan React*
 
