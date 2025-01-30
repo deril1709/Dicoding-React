@@ -8,8 +8,6 @@ Repository ini berisi proyek dan latihan dari kursus React yang diikuti melalui 
 ## 🚀 Teknologi yang Digunakan
 - **React.js** - Library JavaScript untuk membangun antarmuka pengguna.
 - **Vite** - Build tool yang cepat untuk proyek React.
-- **Tailwind CSS** *(opsional, jika digunakan)* - Framework CSS untuk styling.
-- **React Router** *(jika digunakan)* - Library untuk navigasi dalam aplikasi React.
 
 ## 📂 Struktur Folder
 ```
@@ -49,8 +47,6 @@ Dicoding-React/
 ## 📌 Fitur Utama
 - **Komponen Reusable**: Menerapkan konsep komponen yang dapat digunakan kembali.
 - **State Management**: Menggunakan state dan props untuk mengelola data.
-- **Routing** *(jika digunakan)*: Navigasi antar halaman menggunakan React Router.
-- **Optimasi Performa**: Menggunakan React hooks seperti `useState` dan `useEffect`.
 
 ## 🤝 Kontribusi
 Jika ingin berkontribusi, silakan fork repository ini, buat branch baru, dan kirimkan pull request. 😊
